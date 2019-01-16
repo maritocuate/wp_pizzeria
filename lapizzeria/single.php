@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    <h1>Hello World from INDEX</h1>
+    <h1>Hello World from SINGLE</h1>
 
 </body>
 </html>
